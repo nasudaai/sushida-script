@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo $1 >> $2
-cat $2
+cat -n $2
